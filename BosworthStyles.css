@@ -1,0 +1,23 @@
+p{
+ font-family: comic sans MS;
+ color: white;
+ font-size: 30px;
+}
+
+h2{
+ color: white;
+}
+
+body{
+ background-color: black;
+}
+
+ul {
+  
+}
+
+ul, li {
+  list-style: none;
+  display: inline;
+  margin-top: 500px;
+}
