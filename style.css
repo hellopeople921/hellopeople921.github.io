@@ -64,11 +64,13 @@ margin-left: 500px;
   /* For mobile phones: */
 #title{
     font-size:500%;
+    margin-left: 8px;
     
   }
 #a{
-margin-left: 8px;
+margin-left: 30%;
 }
 button{
 display: block;
+margin-top: 5px;
 }
