@@ -62,7 +62,10 @@ margin-left: 500px;
 
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
-#a{
+#title{
     font-size:50%;
+    
   }
+#a{
+margin-left: 8px;
 }
