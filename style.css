@@ -62,16 +62,16 @@ margin-left: 500px;
 
 @media only screen and (max-width:1000px) {
   /* For mobile phones: */
-#title{
+  #title{
     font-size:500%;
     margin-left: 1px;
   }
-#a{
+  #a{
 
-}
-button{
-display: block;
-margin-left: 0px;
-margin-top: 3px;
-}
+  }
+  button{
+    display: block;
+    margin-left: 0px;
+    margin-top: 3px;
+  }
 }
