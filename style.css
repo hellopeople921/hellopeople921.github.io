@@ -67,17 +67,20 @@ margin-left: 500px;
     margin-left: 1px;
   }
   #a{
-    margin-left: 16px;
+    margin-left: 30%;
+    width: 30%
   }
   #b{
-    margin-left: 16px;
+    margin-left: 30%;
+    width: 30%;
   }
  #c{
-    margin-left: 16px;
+    margin-left: 30%;
+    width: 30%;
   }
   button{
     display: block;
    
-    margin-top: 3px;
+    margin-top: 7px;
   }
 }
