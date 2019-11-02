@@ -72,11 +72,15 @@ margin-left: 500px;
   }
   #b{
     margin-left: 30%;
-    width: 30%;
+    width: 40%;
   }
  #c{
     margin-left: 30%;
-    width: 30%;
+    width: 40%;
+  }
+  #d{
+    margin-left: 30%;
+    width: 40%;
   }
   button{
     display: block;
