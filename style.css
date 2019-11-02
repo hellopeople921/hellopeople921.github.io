@@ -66,9 +66,12 @@ margin-left: 500px;
     font-size:500%;
     margin-left: 1px;
   }
+   h2{
+      text-align: right;
+     }
   #a{
     margin-left: 30%;
-    width: 30%
+    width: 40%
   }
   #b{
     margin-left: 30%;
