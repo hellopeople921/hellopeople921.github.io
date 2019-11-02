@@ -67,11 +67,17 @@ margin-left: 500px;
     margin-left: 1px;
   }
   #a{
-
+    margin-left: 16px;
+  }
+  #b{
+    margin-left: 16px;
+  }
+ #c{
+    margin-left: 16px;
   }
   button{
     display: block;
-    margin-left: 0px;
+   
     margin-top: 3px;
   }
 }
